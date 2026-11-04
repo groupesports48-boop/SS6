@@ -1,0 +1,6 @@
+{
+  "name": "Destroyed eSports Management",
+  "description": "Personal Free Fire India eSports Management System for tracking MY tournaments, MY lobbies, MY team, MY match history, MY earnings and MY expenses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
